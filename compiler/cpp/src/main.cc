@@ -53,6 +53,9 @@
 
 #include "version.h"
 
+
+#define PATH_MAX 256
+
 using namespace std;
 
 /**
